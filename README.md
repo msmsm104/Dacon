@@ -79,4 +79,7 @@ https://www.notion.so/9dfd78b8a1cd4f8891a9799fb9e7c313
 - test: test 관련
 - conf: 환경설정 관련
 - build: 데이터 집산
-- Definiation:
+- Definition: 프로젝트의 전반적인 문제 정의 및 내용 설정
+- Data: 전처리 파일 및 모델링을 위한 파일
+- models: 여러 모델들의 집합
+- src :scripts
