@@ -58,16 +58,15 @@ https://www.notion.so/9dfd78b8a1cd4f8891a9799fb9e7c313
 - 주 역할:
 - 보조 역할: 
 - 추가 역할:
-- 협업장소: 
-- 소통: 
-- 저장소: 
-- 개발환경: 
-- 언어 :
-- 라이브러리:
-- 시각화 라이브러리: 
-- 시각화 도구: 
+- 협업장소: Github, GoogleMeet
+- 소통: Slack, Notion,Git project, Google OS
+- 저장소: Github, Google Drive
+- 개발환경: Visual studio code, Juypter Notebook, colab
+- 언어 :python 3.8.x
+- 라이브러리:Numpy,Pandas, Scikit-learn 1.1.x
+- 시각화 라이브러리: Seaborn, Matplotlib, Plot,Plotly  
+- 시각화 도구: Tableau, GA
 - 웹 크롤링: 
-- 관리: 
 
 <br>
 
