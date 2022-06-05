@@ -2,7 +2,7 @@
 
 ## 회의 및 아카이빙 
 
-https://www.notion.so/9dfd78b8a1cd4f8891a9799fb9e7c313
+[https://www.notion.so/9dfd78b8a1cd4f8891a9799fb9e7c313](https://www.notion.so/Dacon-61f6d385c1d148d29ee8a65b8e0a5dc1)
 
 ## 주관: Dacon
 
