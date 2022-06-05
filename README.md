@@ -1,14 +1,14 @@
-# ML_Project
+# Dacon_Covid
 
 ## 회의 및 아카이빙 
 
 https://www.notion.so/9dfd78b8a1cd4f8891a9799fb9e7c313
 
-## 주관: 중소기업벤처부 이어드림 스쿨 2기
+## 주관: Dacon
 
 <br>
 
-![image](https://user-images.githubusercontent.com/86671456/171619107-8d5506bf-349e-4163-9694-c3ad99adac9d.png)
+![image](https://user-images.githubusercontent.com/86671456/172060698-45bbfce8-a27e-463f-a69c-f0269f67c5a3.png)
 
 
 ## Abstract
@@ -23,7 +23,7 @@ https://www.notion.so/9dfd78b8a1cd4f8891a9799fb9e7c313
 
 |  분석 적용 난이도  |     분석적용 난이도 사유    |      분석주기     | 분석결과 검증 Owner|
 |:-----:| --------------------------------------- |:---------------:|----------------|
-| |   |  | 실습코치님, 이재원강사님, 고려대학교 강필성 교수님의 대학원생분들 |
+| |   |  | Dacon |
 
 
 
@@ -52,7 +52,7 @@ https://www.notion.so/9dfd78b8a1cd4f8891a9799fb9e7c313
 **공식기간: 2022.06.03 ~ 2022.06.14**
 
 
-- 인원:
+- 인원:이세현,문석민
 - 직책: 
 - 데이터: 
 - 주 역할:
